@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Terra.Microsoft.ProtoBufs</id>
+    <version>1.0.4</version>
+    <title>Terra.Microsoft.ProtoBufs</title>
+    <icon>TerraMystic.png</icon>
+    <authors>Dan Gerchcovich</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/TerraMystics/terra-sharp</projectUrl>
+    <description>Proto Definition Files and Implementations for the Terra LUNC/USTC/LUNA2 Ecosystem</description>
+    <releaseNotes>Package Update</releaseNotes>
+    <copyright>2022</copyright>
+    <tags></tags>
+  </metadata>
+
+  <files>
+    <file src="bin\Release\netstandard2.0\TerraProto.CSharp.Legacy.dll" target="lib\netstandard2.0\TerraProto.CSharp.Legacy.dll"/>
+    <file src="TerraMystic.png" target="TerraMystic.png"/>
+  </files>
+</package>
